@@ -1,64 +1,27 @@
-### Hi there 👋
+## Hi there 👋 I'm Krystal Tran ✨
 
-**Hi**
-Hi
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
+<img align='left' src="https://4.bp.blogspot.com/-tuiBJYtJ40o/XA-Gj2P_cBI/AAAAAAAKgyQ/bfgfrZj9xAEdml8k6zVYL9YHup9RBmPLwCLcBGAs/s1600/AW2606235_04.gif" width="240">
 
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/facebook%20@saviomartin.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/twitter%20@saviomartin3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://savio.works/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20savio.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+- 🔭 I’m currently working as an Executive Assistant in an IT company (but I will try to become a back-end developer soon 😄)
+- 🌱 I'm currently pursuing my second Bachelor degree of Information Technology at the University of Science in HCM city, Vietnam.
+- 👯 I’m looking for a chance to join a team to learn and work with so that we can build many projects that make human lives more convenient.
+- ⚡ I feel great learning new things to improve myself and apply those to my work in order to make it better. Well, I'm a bit of a perfectionist but now I learned to take it easy (Sometimes, simple is the best 😄). 
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
+
+## My skills  (I still keep learning them and others to improve my knowledge)
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 <br>
-![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![materializecss](https://img.shields.io/badge/Materialize%20css-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
-![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
-<br>
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
-![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-<br>
+![SQL](https://img.shields.io/badge/-sql-grey?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=8E2DE2)
+![CSharp](https://img.shields.io/badge/-csharp-grey?style=for-the-badge&logo=csharp&logoColor=white&labelColor=8E2DE2)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
-![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+<br>
 
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
-
-<img src="https://github.com/saviomartin/saviomartin/blob/master/assets/repo.png?raw=true">
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=sprintnote&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=covid-chatbot&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
-</p>
-⭐️ From [saviomartin](https://github.com/saviomartin)
-
-<!--
-**krystaltran1234/krystaltran1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">⭐️ Reach me at:⭐️ </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/khanh-hong-tran-38a0b71b5/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/khanh-hong-tran-38a0b71b5/" /></a>
+<a href="https://www.hackerrank.com/krystal_tran_121" target="blank"><img align="center" src="https://img.shields.io/badge/Hackerrank-BEBEBE?style=for-the-badge&logo=hackerrank&logoColor=black" alt="https://www.hackerrank.com/krystal_tran_121" /></a>
